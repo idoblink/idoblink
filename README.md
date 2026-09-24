@@ -1,57 +1,28 @@
-<!-- MasterHead Banner -->
-<div align="center">
-  <img width="100%" src="./.github/profile/cyber_banner.gif" alt="Pixel Art Cityscape" />
+# @idoblink
 
-  <br/><br/>
+<table>
+<tr>
+<td valign="top" width="50%">
+<img src="github-metrics.svg" alt="Metric" />
+</td>
+<td valign="top" width="50%">
 
-  <h2>Dhanush H S</h2>
-  <p>AI &amp; Machine Learning Engineering · Systems Software · Full-Stack Architecture</p>
-</div>
+## Latest blog posts
 
-<br/>
+<!-- blog start -->
+[Goup - Elegant Go Version Manager](https://owenou.com/goup/)
 
-<!-- About Me Section -->
-<div>
-  <img align="right" width="42%" src="./.github/profile/about_scene.gif" alt="Workspace" />
-  <h3>About Me</h3>
-  <p>
-    - Computer Science &amp; Engineering Undergrad (AI/ML) at <b>Vidyavardhaka College of Engineering</b>, Karnataka, India.<br/>
-    - Building end-to-end systems across <b>Machine Learning</b>, <b>Full-Stack Web</b>, and <b>Native Windows Software</b>.<br/>
-    - Engineering deep learning pipelines (<b>PyTorch</b>, <b>YOLOv8</b>, <b>Audio-Visual Separation</b>) and native system utilities (<b>C# / Win32</b>).<br/>
-    - Focus areas: Machine Learning Systems, Computer Vision, High-Performance Backends, and Process Architecture.<br/>
-    - Focused on shipping tested, deployable code with containerized infrastructure and automated testing.
-  </p>
-</div>
+[Upterm - Secure Terminal Sharing](https://owenou.com/upterm/)
 
-<br clear="both"/>
-<br/>
+[My Lightening Talk On Godzilla At GopherCon 2017](https://owenou.com/me-at-gophercon-2017/)
 
-<!-- Languages & Tools -->
-<h3 align="center">Languages &amp; Tools</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,cs,dotnet,cpp,c,linux,ubuntu" alt="AI & Systems Stack" /><br/>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,fastapi,docker,git,github,vscode,postman" alt="Web & Tools Stack" />
-</div>
+[My Lightening Talk At GopherCon 2015](https://owenou.com/me-at-gophercon-2015/)
 
-<br/>
+[Fast GitHub Command Line Client Written in Go](https://owenou.com/fast-github-command-line-client-written-in-go/)
+<!-- blog end -->
 
-<!-- GitHub Activity (Pure Line Graph) -->
-<h3 align="center">GitHub Activity</h3>
-<div align="center">
-  <img width="100%" src="https://github-activity-graph.vercel.app/graph?username=idoblink&theme=nord&hide_border=true&area=true" alt="GitHub Activity Line Graph" />
-</div>
+Read more on [owenou.com](https://owenou.com)
 
-
-
-<br/>
-
-<!-- Bottom Pixel Art Banner -->
-<div align="center">
-  <img width="100%" src="./.github/profile/footer_city.gif" alt="Pixel Art Skyline" />
-  <br/><br/>
-  <sub>Dhanush H S</sub>
-</div>
-
-
-
-
+</td>
+</tr>
+</table>
