@@ -4,11 +4,11 @@ Currently studying at: [Vidyavardhaka College of Engineering](https://vvce.ac.in
 
 <table border="0" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=idoblink&show_icons=true&title_color=ffffff&text_color=cccccc&icon_color=ffffff&bg_color=161b22&hide_border=true" alt="GitHub Stats" width="100%" />
+    <td width="50%" valign="top" align="center">
+      <img height="195" src="https://github-readme-stats-fast.vercel.app/api?username=idoblink&show_icons=true&title_color=ffffff&text_color=cccccc&icon_color=ffffff&bg_color=161b22&hide_border=true" alt="GitHub Stats" />
     </td>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=idoblink&layout=compact&title_color=ffffff&text_color=cccccc&icon_color=ffffff&bg_color=161b22&hide_border=true" alt="Top Languages" width="100%" />
+    <td width="50%" valign="top" align="center">
+      <img height="195" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=idoblink&layout=compact&card_width=467&title_color=ffffff&text_color=cccccc&icon_color=ffffff&bg_color=161b22&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
