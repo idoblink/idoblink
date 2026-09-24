@@ -41,20 +41,7 @@
   <img width="100%" src="https://github-activity-graph.vercel.app/graph?username=idoblink&theme=nord&hide_border=true&area=true" alt="GitHub Activity Line Graph" />
 </div>
 
-<br/>
 
-<!-- Featured Systems (Uniform Spacing Grid) -->
-<h3 align="center">Featured Systems</h3>
-<div align="center">
-  <a href="https://github.com/idoblink/PortKill"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=idoblink&repo=PortKill&theme=nord&hide_border=true" width="400" alt="PortKill" /></a>
-  <a href="https://github.com/idoblink/PhishLens"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=idoblink&repo=PhishLens&theme=nord&hide_border=true" width="400" alt="PhishLens" /></a>
-  <br/>
-  <a href="https://github.com/idoblink/AVSE"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=idoblink&repo=AVSE&theme=nord&hide_border=true" width="400" alt="AVSE" /></a>
-  <a href="https://github.com/idoblink/Waste-Management-System"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=idoblink&repo=Waste-Management-System&theme=nord&hide_border=true" width="400" alt="Waste-Management-System" /></a>
-  <br/>
-  <a href="https://github.com/idoblink/pdf-chatbot"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=idoblink&repo=pdf-chatbot&theme=nord&hide_border=true" width="400" alt="pdf-chatbot" /></a>
-  <a href="https://github.com/idoblink/CineBook"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=idoblink&repo=CineBook&theme=nord&hide_border=true" width="400" alt="CineBook" /></a>
-</div>
 
 <br/>
 
