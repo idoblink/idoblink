@@ -1,37 +1,31 @@
-# Dhanush H S
+Hi, I'm Dhanush. I'm an AI & ML engineer, systems software developer and full-stack architect. [View portfolio](https://pprbkt.vercel.app).
 
-AI & Machine Learning Engineering Student · Systems Software · Full-Stack Architecture
+Currently studying at: [Vidyavardhaka College of Engineering](https://vvce.ac.in)
 
----
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="profile-summary-card-output/2077/0-profile-details.svg" alt="Stats" width="100%" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="profile-summary-card-output/2077/1-repos-per-language.svg" alt="Top Languages by Repo" width="100%" />
+    </td>
+  </tr>
+</table>
 
-### About
+Above stats generated with: [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-- 🎓 Computer Science & Engineering (AI/ML) at **Vidyavardhaka College of Engineering**, Karnataka, India.
-- 💻 Building end-to-end systems across Machine Learning, Full-Stack Web, and Native Windows Software.
-- 🔬 Engineering deep learning pipelines (PyTorch, YOLOv8, Audio-Visual Separation) and native system utilities (C# / Win32).
+## Recent Projects
 
----
-
-### Tech Stack
-
-- **Languages & Frameworks**: Python, PyTorch, TensorFlow, OpenCV, C#, .NET, C++, C, TypeScript, JavaScript, React, Next.js, Node.js, FastAPI
-- **Tools & Infrastructure**: Docker, Kubernetes, Linux, Git, GitHub, Postman, VS Code
-
----
-
-### Featured Projects
-
-- [**PortKill**](https://github.com/idoblink/PortKill) — Lightweight system utility to identify and terminate processes bound to active ports.
-- [**AVSE**](https://github.com/idoblink/AVSE) — Audio-Visual Speech Enhancement and separation deep learning model.
-- [**PhishLens**](https://github.com/idoblink/PhishLens) — AI-powered phishing detection and website analysis tool.
-- [**pdf-chatbot**](https://github.com/idoblink/pdf-chatbot) — RAG-based document Q&A application powered by LLMs.
-- [**Waste-Management-System**](https://github.com/idoblink/Waste-Management-System) — Smart waste management and tracking system.
-- [**CineBook**](https://github.com/idoblink/CineBook) — Full-stack movie ticket booking platform.
-
----
-
-### Connect
-
-- **Portfolio**: [pprbkt.vercel.app](https://pprbkt.vercel.app)
-- **Email**: [dhanushhs1@outlook.com](mailto:dhanushhs1@outlook.com)
-- **GitHub**: [@idoblink](https://github.com/idoblink)
+1. **[PortKill](https://github.com/idoblink/PortKill)** (C# / Win32)
+   - A lightweight system utility to identify, inspect, and terminate processes bound to active TCP/UDP ports.
+2. **[AVSE](https://github.com/idoblink/AVSE)** (PyTorch)
+   - Audio-visual speech enhancement and separation deep learning model.
+3. **[PhishLens](https://github.com/idoblink/PhishLens)** (Python / Machine Learning)
+   - AI-powered phishing URL detection and web security analysis tool.
+4. **[pdf-chatbot](https://github.com/idoblink/pdf-chatbot)** (Next.js / RAG)
+   - Context-aware document Q&A assistant leveraging vector embeddings and LLMs.
+5. **[Waste-Management-System](https://github.com/idoblink/Waste-Management-System)** (Web / IoT)
+   - Smart waste management and bin tracking platform.
+6. **[CineBook](https://github.com/idoblink/CineBook)** (React / Node.js)
+   - Full-stack movie ticket booking web application.
