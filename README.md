@@ -29,7 +29,8 @@
 <!-- Languages & Tools -->
 <h3 align="center">Languages &amp; Tools</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,cs,dotnet,cpp,ts,react,fastapi,docker,git" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,cs,dotnet,cpp,c,linux,ubuntu" alt="AI & Systems Stack" /><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,fastapi,docker,git,github,vscode,postman" alt="Web & Tools Stack" />
 </div>
 
 <br/>
@@ -37,7 +38,7 @@
 <!-- GitHub Stats (Line Graph) -->
 <h3 align="center">GitHub Activity</h3>
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=idoblink&theme=nord" alt="GitHub Activity Line Graph" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=idoblink&theme=github_dark" alt="GitHub Activity Line Graph" />
 </div>
 
 <br/>
@@ -65,5 +66,6 @@
   <br/><br/>
   <sub>Dhanush H S</sub>
 </div>
+
 
 
